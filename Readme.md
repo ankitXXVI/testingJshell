@@ -1,4 +1,4 @@
-# Repository for testing jshel
+# Repository for testing jshell
 
 First commit errors:
 
