@@ -17,3 +17,11 @@ jshell> C = n;
 |  C = n;
 |  ^
 
+### After errors fixed:
+int n = 68;
+byte b = 127;
+char c = 'B';
+b = (byte)n;
+c = (char)n;
+b ==> 68
+c ==> 'D'
